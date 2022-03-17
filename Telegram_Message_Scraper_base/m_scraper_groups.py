@@ -11,7 +11,7 @@ import sys
 sys.path.append("../Message_Scraper_Classifier")
 
 from DS_Model.ds_model_predict import *
-# +380 93 004 05 68
+
 chats = []
 last_date = None
 
