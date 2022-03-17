@@ -18,6 +18,7 @@ Fetching messages from Telegram chats and classifying its text using the Data Sc
 --------------------------------------------------------------
 
 ℹ️ℹ️ℹ️ Additional info
+
 🏷 0️⃣ - suitable 1️⃣ - non suitable
 🧠 More messages -> more accuracy of label prediction
 🔭 You can select Data Science model at your sole
