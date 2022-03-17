@@ -4,6 +4,8 @@ import time
 # set your list of groups
 lst_groups = []
 
+os.system("python .//DS_Model//ds_model_train.py")
+
 def run():
     while True:
         for group in lst_groups:
