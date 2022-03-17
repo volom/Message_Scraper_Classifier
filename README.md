@@ -1,4 +1,4 @@
-Fetching messages from chats and classifying its text using the Data Science model
+Fetching messages from Telegram chats and classifying its text using the Data Science model
 
 ❕ This project solves the problem: selection of participants from chats corresponding to your pattern, which will be created after manually labeling a pre-loaded certain number of messages and based on which the machine learning model will be trained for further automatic labeling.
 
