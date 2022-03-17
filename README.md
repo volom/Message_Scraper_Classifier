@@ -27,4 +27,4 @@ Fetching messages from Telegram chats and classifying its text using the Data Sc
 
 🔤 The script uses only text from messages regardless of other options available: forwards, mentions, attachments etc.
 
-❗️ some scripts use bash command in os.system(). Depending on your OS or environment settings you may probably need to change commands. Bash commands are used in *run_scraper.py*, *labeling_auto_check.py*, *labeling_manual.py*
+❗️ some scripts use bash command in os.system(). Depending on your OS or environment settings you may probably need to change commands. Bash commands are used in *run_scraper.py*, *labeling_auto_check.py*, *labeling_manual.py*, *run_scraper.py*
