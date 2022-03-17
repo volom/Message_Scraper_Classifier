@@ -39,8 +39,7 @@ chats.extend(result.chats)
 
 print('Fetching Messages...')
 
-#group_title = sys.argv[1]
-group_title = "DDOS атака на СЕПАРІВ (Кібер-Козаки)"
+group_title = sys.argv[1]
 
 channel_entity=client.get_entity(group_title)
 try:
